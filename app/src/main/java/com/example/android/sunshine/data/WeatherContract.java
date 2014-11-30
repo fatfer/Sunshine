@@ -1,4 +1,4 @@
-package com.example.android.sunshine;
+package com.example.android.sunshine.data;
 
 import android.provider.BaseColumns;
 
